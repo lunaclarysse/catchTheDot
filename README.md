@@ -1,4 +1,4 @@
-# catchTheDot
+# Catch The Dot
 This project implements a game in which you have to catch the dot with your index finger.
 A dot of a certain size appears on the screen at a random position.
 Once you touch the dot with the top of your index finger, your score will increase by one and a new dot will appear.
